@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b46d9ac2fe211dc3",
+        "id": "5b198df2f36dd2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2753468c8d3bb519",
+            "id": "2addb431a20a12f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Portfolio Website.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Portfolio Website"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Main Notes/Portfolio Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Portfolio Website"
             }
           },
           {
@@ -136,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -160,12 +164,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "baee7d4de716ae1b",
+  "active": "2addb431a20a12f6",
   "lastOpenFiles": [
-    "Untitled",
-    "Untitled.md"
+    "6 - Main Notes/Portfolio Website.md",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/Untitled 1.md",
+    "Untitled.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "3 - Tags.md",
+    "2 - Source Materials",
+    "1 - Rough Notes"
   ]
 }
