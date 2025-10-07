@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "324fcfa63f3fde3a",
+        "id": "6f0e948e4635f9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "cce2336dcb9cbdff",
+            "id": "3d1336c69a0cc5de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "6 - Main Notes/Website Landing Page.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace(1).json",
+                "bFile": ".obsidian/workspace(1).json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Website Landing Page"
+              "icon": "diff",
+              "title": "Diff: workspace(1).json"
             }
           }
         ]
@@ -94,8 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Portfolio Website.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Portfolio Website"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,20 +178,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baee7d4de716ae1b",
+  "active": "3d1336c69a0cc5de",
   "lastOpenFiles": [
+    "6 - Main Notes/3d printer.md",
+    "6 - Main Notes/Who am I.md",
+    "6 - Main Notes/Website Landing Page.md",
+    "6 - Main Notes/Resume.md",
+    "3 - Tags/informal.md",
+    "3 - Tags/jekyll.md",
+    "3 - Tags/webdev.md",
+    "3 - Tags/formal.md",
     "4 - Indexes",
     "2 - Source Material",
     "1 - Rough Notes",
-    "6 - Main Notes/Website Landing Page.md",
-    "6 - Main Notes/Who am I.md",
     "5 - Templates/Full Note.md",
-    "3 - Tags/informal.md",
-    "3 - Tags/formal.md",
     "6 - Main Notes/3d Printer.md",
     "6 - Main Notes/who am.md",
-    "3 - Tags/webdev.md",
-    "3 - Tags/jekyll.md",
     "6 - Main Notes/Untitled 1.md",
     "Untitled.md",
     "6 - Main Notes",
