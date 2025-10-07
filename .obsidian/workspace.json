@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50fa36d65995be9b",
+        "id": "324fcfa63f3fde3a",
         "type": "tabs",
         "children": [
           {
-            "id": "e188eb10022929b7",
+            "id": "cce2336dcb9cbdff",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "6 - Main Notes/Website Landing Page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "Website Landing Page"
             }
           }
         ]
@@ -179,14 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e188eb10022929b7",
+  "active": "baee7d4de716ae1b",
   "lastOpenFiles": [
-    "6 - Main Notes/Who am I.md",
+    "4 - Indexes",
+    "2 - Source Material",
+    "1 - Rough Notes",
     "6 - Main Notes/Website Landing Page.md",
+    "6 - Main Notes/Who am I.md",
     "5 - Templates/Full Note.md",
+    "3 - Tags/informal.md",
     "3 - Tags/formal.md",
     "6 - Main Notes/3d Printer.md",
-    "3 - Tags/informal.md",
     "6 - Main Notes/who am.md",
     "3 - Tags/webdev.md",
     "3 - Tags/jekyll.md",
