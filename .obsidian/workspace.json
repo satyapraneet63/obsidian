@@ -11,14 +11,14 @@
             "id": "3d1336c69a0cc5de",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace(1).json",
-                "bFile": ".obsidian/workspace(1).json",
-                "aRef": ""
+                "file": "6 - Main Notes/Who am I.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace(1).json"
+              "icon": "lucide-file",
+              "title": "Who am I"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "3d1336c69a0cc5de",
   "lastOpenFiles": [
-    "6 - Main Notes/3d printer.md",
-    "6 - Main Notes/Who am I.md",
     "6 - Main Notes/Website Landing Page.md",
     "6 - Main Notes/Resume.md",
+    "6 - Main Notes/3d printer.md",
+    "6 - Main Notes/Who am I.md",
     "3 - Tags/informal.md",
     "3 - Tags/jekyll.md",
     "3 - Tags/webdev.md",
