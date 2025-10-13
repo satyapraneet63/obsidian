@@ -1,7 +1,7 @@
 {{date}} {{time}}
 Status:
 Tags:
-# {{Title}}
+## {{Title}}
 
 
 
