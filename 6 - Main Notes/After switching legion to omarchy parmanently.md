@@ -6,9 +6,11 @@ Tags: [[documentation]] [[informal]] [[diary]] [[checklist]]
 - [x] removed bloat software
 - [x] installed ruby, gem, jekyll, bundler
 - [x] installed steam, downloaded elden ring
-- [ ] get xbox controller working
-- [ ] get the game running
-- [ ] connect the second hardrive properly with formatting
+- [x] get xbox controller working
+- [x] get the game running
+- [x] connect the second hardrive properly with formatting
+- [x] Get OrcaSlicer working
+	- [x] Had to do a wierd workaround using WinBoat to run a containerized Windows instance.
 - [ ] 
 
 References
