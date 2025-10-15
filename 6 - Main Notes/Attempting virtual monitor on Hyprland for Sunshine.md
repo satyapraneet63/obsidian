@@ -3,7 +3,7 @@ Status:
 Tags:
 ## Attempting virtual monitor on Hyprland for Sunshine
 
-Downloaded edid firmware for TV from https://git.linuxtv.org/v4l-utils.git/tree/utils/edid-decode/data. EDID is appparently used for colour profiles(?)
+Downloaded edid firmware for TV from [here](https://git.linuxtv.org/v4l-utils.git/tree/utils/edid-decode/data). EDID is appparently used for colour profiles(?)
 
 put the firmware file in `/usr/lib/firmware/edid/` and edited the `/etc/mkinitcpio.conf`. Also had to run kernelcmd command to load an existing unconnected output with the firmware specifications.
 Omarchy uses limine for boot configs(?).  Ran the kernelcmd in `/boot/limine.conf`. This part here was failing as I remade mkinicpio. The conf file was being overwritten.
