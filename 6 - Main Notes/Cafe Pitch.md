@@ -31,3 +31,4 @@ Tosif previously worked at T-Hub and asked me to go there and look at possibilit
 * 
 ---
 ###### References
+[[TPU Shoes - availability, pitch, feasibility]]
