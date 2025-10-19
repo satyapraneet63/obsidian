@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82bf773774d9a9d4",
@@ -207,15 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "835e2a83f4442f65",
+  "active": "e176322bdb2709c6",
   "lastOpenFiles": [
-    "6 - Main Notes/Colleges.md",
     "6 - Main Notes/Paths.md",
+    "6 - Main Notes/Colleges.md",
+    "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
     "6 - Main Notes/Cafe Pitch.md",
     "6 - Main Notes/Resume.md",
     "6 - Main Notes/After switching legion to omarchy parmanently.md",
     "5 - Templates/Full Note.md",
-    "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
     "6 - Main Notes/AI Mastermind_Day 1.md",
     "6 - Main Notes/AI Mastermind_Day 4.md",
     "6 - Main Notes/Attempting virtual monitor on Hyprland for Sunshine.md",
