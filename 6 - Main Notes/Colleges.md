@@ -12,6 +12,7 @@ Tags:
 
 * MDes at NID (National Institute of Design)
 	*  Open till 1st December.
+	* * [NID DAT Important Dates](https://admissions.nid.edu/NIDA2026/download/MDes_AdmissionsHandbook2026-27.pdf)
 
 * [Nottingham University - Additive Manufacturing](https://www.nottingham.ac.uk/pgstudy/course/taught/additive-manufacturing-and-3d-printing-msc) 
 	* Industrial scale manufacturing, material science. Optional modules for advanced energy and electronics materials.
@@ -23,7 +24,10 @@ Tags:
 * [IISc. M.Des in Product Design Dev. & Management](https://dm.iisc.ac.in/dm/#efaq-m-des-in-product-design-dev-management) 
 	* Valid GATE/CEED/CAT score + Design Aptitude Test (DAT)
 	* CEED registrations open. [**APPLY!!!**](https://ceedapp.iitb.ac.in/CEED/home.jsp)
-	* 
+	* Prepare for DAT. Sample papers available
+	* CEED also opens up admissions in IITs
 
+* 
+  
 ---
 ###### References
