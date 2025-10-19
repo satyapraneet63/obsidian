@@ -9,8 +9,8 @@ Tags:
 	* Keep printing. Models of characters, celebrities etc.
 	* Social Media
 3. Study
-	*  Tech - MTech, MS, ME etc.
-	* Creative - MDes
+	*  Tech - M.Tech, MS, ME etc.
+	* Creative - M.Des
 	* Manufacturing
 	* Business
 ---
