@@ -9,7 +9,7 @@ Tags:
 ###### References
 
 
-
+---
 Masters programs are research oriented
 Based on projects
 example: 2.5 years
