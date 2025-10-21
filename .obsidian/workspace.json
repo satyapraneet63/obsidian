@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82bf773774d9a9d4",
@@ -236,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "965b9096bab60170",
+  "active": "855cba2683d93269",
   "lastOpenFiles": [
     "6 - Main Notes/NID Application form Questions.md",
     "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
