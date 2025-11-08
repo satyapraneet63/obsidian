@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
+                "file": "6 - Main Notes/NID Application form Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters."
+              "title": "NID Application form Questions"
+            }
+          },
+          {
+            "id": "5cfb9d3012c7387f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
+                "bFile": "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters."
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "TPU Shoes - availability, pitch, feasibility"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,14 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "855cba2683d93269",
+  "active": "5cfb9d3012c7387f",
   "lastOpenFiles": [
+    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
+    "6 - Main Notes/Please write a brief statement about yourself including details of your interests, hobbies, etc..md",
     "6 - Main Notes/NID Application form Questions.md",
+    "6 - Main Notes/Paths.md",
     "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
     "6 - Main Notes/Colleges.md",
-    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
     "6 - Main Notes/Untitled.md",
-    "6 - Main Notes/Paths.md",
     "6 - Main Notes/Equalizers.md",
     "6 - Main Notes/Cafe Pitch.md",
     "6 - Main Notes/Resume.md",
@@ -238,7 +254,6 @@
     "4 - Indexes",
     "2 - Source Material",
     "1 - Rough Notes",
-    "6 - Main Notes/3d Printer.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",

@@ -18,8 +18,8 @@ My experience as a DevOps engineer has trained me to think big-picture in terms 
 ---
 ### V 3
 I see the M.Des from NID as the foundation for transitioning from a process-driven, iterative workflow to a complete design paradigm. I have the ambition of working with Additive Manufacturing in the future. I want to combine my training and experience as an engineer with good design sensibilities. I want marry material science, advanced manufacturing techniques, design and ergonomics into a complete package.
-The discipline of product design appeals to me personally. I would like to work on finding solutions to the problems in the world around us through the lens of  design. I am enamoured by the potential of Additive Manufacturing to radically transform the ways we look at "products" around us. It can make us question the relationship we form with the objects around us from buyer/owner to creator/editor. I am also interested to pursue any ways we can improve the current experience of using 3D printers through both engineering and design.
-This vision of mine can be realised through training from NID, one of the best institutions in our country. 
+The discipline of product design appeals to me personally. I would like to work on finding solutions to the problems in the world around us through the lens of  design. I am enamoured by the potential of Additive Manufacturing to radically transform the ways we look at "products" around us. It can make us redefine the relationship we form with the objects around us from buyer/owner to creator/editor. I am also interested to pursue any ways we can improve the current experience of using 3D printers through both material science, motion systems  and design.
+Being one of the best institutions in the country, NID can offer vast human and material resources to help me realise my vision.
 
 ---
 ###### References
