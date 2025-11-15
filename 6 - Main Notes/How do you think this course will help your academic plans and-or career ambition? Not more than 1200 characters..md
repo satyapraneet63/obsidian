@@ -1,4 +1,4 @@
-2025-10-20 12:49
+g2025-10-20 12:49
 Status:
 Tags:
 ## How do you think this course will help your academic plans and/or career ambition? Not more than 1200 characters.
@@ -19,7 +19,16 @@ My experience as a DevOps engineer has trained me to think big-picture in terms 
 ### V3
 I see the M.Des from NID as the foundation for transitioning from a process-driven, iterative workflow to a complete design paradigm. I have the ambition of working with Additive Manufacturing in the future. I want to combine my training and experience as an engineer with good design sensibilities. I want to ~~marry~~ material science, advanced manufacturing techniques, design and ergonomics into a complete package.
 The discipline of product design appeals to me personally. I would like to work on finding solutions to the problems in the world around us through the lens of  design. I am enamoured by the potential of Additive Manufacturing to radically transform the ways we look at "products" around us. It can make us redefine the relationship we form with the objects around us from buyer/owner to creator/editor. I am also interested to pursue any ways we can improve the current experience of using 3D printers through both material science, motion systems  and design.
-Being one of the best institutions in the country, NID can offer vast human and material resources to help me realise my vision.
+Being one of the best institutions in the country, NID can offer connections, alumni and material resources to help me realise my vision.
+
+---
+### V4
+My work so far has taught me how to build systems that work. I now want to learn how to design from first principles. I see the M.Des at NID as the foundation for transitioning from engineering and iteration to holistic design.
+I’m particularly drawn to Product Design and its potential within Additive Manufacturing. I want to combine my engineering experience with strong design sensibilities, bringing together material science, advanced manufacturing techniques and ergonomics.
+I’m intrigued by my own experience on how Additive Manufacturing can transform our relationship with objects. I have learned to look at them as "creations" rather than "products." I want to also explore how the experience of using 3D printers themselves can be improved through material science, motion systems and design.
+NID's  culture of encouraging interdisciplinary experimentation suits my approach to learning. I am particularly drawn to its state-of-the-art prototyping labs (CNC, laser cutting and 3D printing) which align directly with what I want to explore. This, combined with the strong alumni and industry network will give me a great platform to help develop my ideas from concepts to reality.
+
+move from concept to reality.
 
 ---
 ###### References
@@ -36,3 +45,5 @@ Being one of the best institutions in the country, NID can offer vast human and 
 		Make an appeal to future
 
 mention expectations from course. re-frame a little bit. 
+
+	I would rather keep the awkward phrasing. its mine. Help me with glazing NID in the last couple lines. Can you search online and give me something specific to praise them about?
