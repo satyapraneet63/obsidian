@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8618bb6c87de7890",
+        "id": "e20922e30c7a0444",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb21f750f6259e1",
+            "id": "89a69b2c6be9410a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "Please write a brief statement about yourself including details of your interests, hobbies, etc."
             }
-          },
-          {
-            "id": "98b3bd1cff0932f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters."
-            }
-          },
-          {
-            "id": "443520965792636e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/What can dreams reveal?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What can dreams reveal?"
-            }
-          },
-          {
-            "id": "df052d824ad77a46",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "803c1dfcb052c821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,17 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803c1dfcb052c821",
+  "active": "89a69b2c6be9410a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
+    "6 - Main Notes/Website Landing Page.md",
+    "6 - Main Notes/Please write a brief statement about yourself including details of your interests, hobbies, etc..md",
+    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
     "6 - Main Notes/What can dreams reveal?.md",
+    "conflict-files-obsidian-git.md",
     "6 - Main Notes/test nov9.md",
     "6 - Main Notes/Untitled 1.md",
-    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
-    "6 - Main Notes/Please write a brief statement about yourself including details of your interests, hobbies, etc..md",
     "6 - Main Notes/NID Application form Questions.md",
     "6 - Main Notes/Paths.md",
-    "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
     "6 - Main Notes/Colleges.md",
     "6 - Main Notes/Untitled.md",
     "6 - Main Notes/Equalizers.md",
@@ -259,7 +203,6 @@
     "6 - Main Notes/Untitled 1.base",
     "6 - Main Notes/Untitled.base",
     "6 - Main Notes/Who am I.md",
-    "6 - Main Notes/Website Landing Page.md",
     "6 - Main Notes/AI Mastermind_Day 5.md",
     "6 - Main Notes/AI Mastermind_Day 3.md",
     "6 - Main Notes/3d printer.md",
