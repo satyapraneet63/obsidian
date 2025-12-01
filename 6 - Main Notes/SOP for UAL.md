@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 2025-11-28 06:56
+=======
+2025-10-13 05:33
+>>>>>>> origin/main
 Status:
 Tags:
 ## SOP for UAL
@@ -12,6 +16,7 @@ My professional experience as a DevOps engineer has taught me to thing big-pictu
 Post graduation, I wish to contribute to R&D in product design firms and consultancies. I believe I can use my engineering foundation alongside strategic design expertise to create accessible, tech-infused products.
 Central Saint Martins' global reputation and alumni network will give me a great platform to help develop my ideas from concepts to reality.
 
+<<<<<<< HEAD
 
 
 
@@ -27,3 +32,19 @@ Post-graduation, I envision contributing to R&D in product design firms or consu
 - **Customize**: Replace project details/links with yours (e.g., add GitHub URLs). Quantify impacts (e.g., "reduced deployment time by 40%"). Weave in specific course modules like "Collaborative Unit" if relevant.
 - **Why it works**: Addresses UAL structure (reasons, practice/future, experience despite grades). Active voice, specific examples show skills.[](https://www.arts.ac.uk/study-at-ual/apply/your-personal-statement)
 - **Edit tips**: Trim to <500 words; ensure 70% your voice. Proofread for flow.
+=======
+---
+
+I am an Electronics Engineer who is drawn to the intersection of technology and art. I am applying to the MSc. Creative Robotics course at UAL's Creative Computing Institute to learn the fusion of machine learning, computation, and creative applications.
+
+My BE in Electronics and Instrumentation Engineering provides to me, a foundation in embedded electronics, control systems and sensors. My interest in robotics
+
+My BE in Electronics and Instrumentation provided foundational expertise in embedded systems, sensors, and control systems, aligning with core modules like Coding for Robotics, Embedded Systems, and Introduction to Machine Learning. I advanced these through hands-on projects: modifying Klipper firmware on my 3D printer to boost print speeds for custom TPU wearables that blend bespoke design, art, and technology; and building a DIY home theater with 3D-printed cabinets and Sigma Studio-programmable DSP for immersive audio processing using Python/C++ scripting. Complementing this technical practice, my large-scale murals and paintings cultivate a human-centered perspective, ready to inform embodied robotics drawing from philosophy, neuroscience, and ethics in units like Critical Robotics and Soft Robotics.[](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/msc-creative-robotics)
+
+UAL's emphasis on creative mechanics (e.g., 3D printing robotic parts), ROS frameworks, and interdisciplinary research in Applied Robotics and Creative Making sets it apart from conventional engineering programs, offering the ethical, experimental space to evolve my work into interactive machines. Post-MSc, I envision R&D in creative robotics startups, developing social or performative robots for theatre, design industries, and beyond—leveraging UAL's alumni network in robotic engineering and creative technologist roles to turn concepts into reality.[](https://www.postgraduatestudentships.co.uk/masters-course/creative-robotics/56928)
+
+This program will propel my shift from iterative engineering to innovative, art-infused robotics, addressing Industry 5.0 challenges through human-robot collaboration.[](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/msc-creative-robotics)
+​
+---
+###### References
+>>>>>>> origin/main
