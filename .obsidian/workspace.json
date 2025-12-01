@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e20922e30c7a0444",
+        "id": "82553008ffc80531",
         "type": "tabs",
         "children": [
           {
-            "id": "89a69b2c6be9410a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters."
-            }
-          },
-          {
-            "id": "42e6bd2fa5b98b55",
+            "id": "a30333e3407fb9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "SOP for UAL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,12 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42e6bd2fa5b98b55",
+  "active": "a30333e3407fb9e5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "6 - Main Notes/SOP for UAL.md",
-    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
     "6 - Main Notes/Please write a brief statement about yourself including details of your interests, hobbies, etc..md",
+    "6 - Main Notes/Resume.md",
+    "6 - Main Notes/SOP for UAL.md",
+    "conflict-files-obsidian-git.md",
+    "6 - Main Notes/How do you think this course will help your academic plans and-or career ambition? Not more than 1200 characters..md",
     "6 - Main Notes/Colleges.md",
     "6 - Main Notes/NID Application form Questions.md",
     "6 - Main Notes/Cafe Pitch.md",
@@ -210,7 +196,6 @@
     "6 - Main Notes/Who am I.md",
     "6 - Main Notes/Untitled 1.md",
     "6 - Main Notes/Paths.md",
-    "6 - Main Notes/Resume.md",
     "6 - Main Notes/After switching legion to omarchy parmanently.md",
     "5 - Templates/Full Note.md",
     "6 - Main Notes/AI Mastermind_Day 1.md",
