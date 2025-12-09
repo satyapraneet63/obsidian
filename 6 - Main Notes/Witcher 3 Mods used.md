@@ -11,3 +11,4 @@ Tags:
 
 ---
 ###### References
+Don't forget to check for [compatibility patches](https://www.nexusmods.com/witcher3/mods/9987?tab=description) between HDRP and BiA
