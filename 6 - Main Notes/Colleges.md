@@ -26,8 +26,5 @@ Tags:
 	* CEED registrations open. [**APPLY!!!**](https://ceedapp.iitb.ac.in/CEED/home.jsp)
 	* Prepare for DAT. Sample papers available
 	* CEED also opens up admissions in IITs
-
-* 
-  
 ---
 ###### References
