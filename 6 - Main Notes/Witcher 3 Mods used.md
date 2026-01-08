@@ -8,6 +8,8 @@ Tags:
 [Grammar of the Path](https://www.nexusmods.com/witcher3/mods/7185?tab=description)
 [Blood and Steel](https://www.nexusmods.com/witcher3/mods/9674?tab=description)
 [Quests Extended](https://www.nexusmods.com/witcher3/mods/9360?tab=files)
+[Friendly HUD](https://www.nexusmods.com/witcher3/mods/7290?tab=description)
+[Script Merger](https://www.nexusmods.com/witcher3/mods/484?tab=description)
 
 ---
 ###### References
