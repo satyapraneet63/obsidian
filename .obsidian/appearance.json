@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Monokai",
+  "theme": "system",
+  "accentColor": ""
 }
