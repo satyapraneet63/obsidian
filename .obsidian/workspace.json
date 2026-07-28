@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "6 - Main Notes/What made me choose UAL.md",
-                "bFile": "6 - Main Notes/What made me choose UAL.md",
+                "aFile": ".obsidian/themes/Monokai Syntax/manifest.json",
+                "bFile": ".obsidian/themes/Monokai Syntax/manifest.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: What made me choose UAL"
+              "title": "Diff: manifest.json"
             }
           }
         ],
@@ -209,18 +209,19 @@
   },
   "active": "d248620a9a8840cc",
   "lastOpenFiles": [
+    "6 - Main Notes/AI Mastermind_Day 5.md",
+    "6 - Main Notes/NID Application form Questions.md",
+    "6 - Main Notes/3d printer.md",
     "6 - Main Notes/What made me choose UAL.md",
     "6 - Main Notes/Untitled 1.md",
     "5 - Templates/Full Note.md",
     "6 - Main Notes/Witcher 3 Mods used.md",
     "6 - Main Notes/TPU Shoes - availability, pitch, feasibility.md",
     "6 - Main Notes/Untitled.base",
-    "6 - Main Notes/3d printer.md",
     "6 - Main Notes/After switching legion to omarchy parmanently.md",
     "6 - Main Notes/AI Mastermind_Day 1.md",
     "6 - Main Notes/AI Mastermind_Day 3.md",
     "6 - Main Notes/AI Mastermind_Day 2.md",
-    "6 - Main Notes/NID Application form Questions.md",
     "6 - Main Notes/Who am I.md",
     "6 - Main Notes/What can dreams reveal?.md",
     "6 - Main Notes/Cafe Pitch.md",
