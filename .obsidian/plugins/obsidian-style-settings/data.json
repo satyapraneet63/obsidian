@@ -1,0 +1,10 @@
+{
+  "monokai-syntax-palette@@monokai-syntax-filter": "monokai-syntax-filter-pro",
+  "monokai-syntax-density@@monokai-syntax-media-border-style": "monokai-syntax-media-border-none",
+  "monokai-syntax-density@@monokai-syntax-compact": true,
+  "monokai-syntax-icons@@monokai-syntax-monochrome-icons": false,
+  "monokai-syntax-icons@@monokai-syntax-hide-file-tree-icons": false,
+  "monokai-syntax-icons@@monokai-syntax-hide-sync-status-button": false,
+  "monokai-syntax-typography@@monokai-syntax-heading-color-mode": "monokai-syntax-heading-full-spectrum",
+  "monokai-syntax-accents@@monokai-syntax-accent-preset": "monokai-syntax-accent-amber-vscode"
+}
